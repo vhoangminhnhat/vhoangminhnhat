@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Warehouse CMS, Mobistore CMS, Mobitopup](https://mobitopup.vn/ (Those 2 projects are private because of my previous company))
 
-- 🌱 I’m currently learning **Javascript, ReactJS, NextJS, VueJS, NodeJS, Strapi, ExpressJS**
+- 🌱 I’m currently learning **Javascript, ReactJS, React Native, NextJS, VueJS, NodeJS, Strapi, ExpressJS**
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NextJS**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NextJS, React Native**
 
 - 📫 How to reach me **vhoangminhnhat2508@gmail.com**
 
