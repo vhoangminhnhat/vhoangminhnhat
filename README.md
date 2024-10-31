@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Vu</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [Warehouse CMS, Mobistore CMS(B2B CMS), Mobitopup, Mobitopup App, NECI, NECI CMS, Mobitopup CMS(B2C CMS)]
+- 🔭 I’m currently working on Warehouse CMS, Mobistore CMS(B2B CMS), Mobitopup, Mobitopup App, NECI, NECI CMS, Mobitopup CMS(B2C CMS)
 
 - 🌱 I’m currently learning **Javascript, ReactJS, React Native, NextJS, VueJS, NodeJS, Strapi, ExpressJS, Flutter**
 
