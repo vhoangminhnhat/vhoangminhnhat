@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Warehouse CMS, Mobistore CMS(B2B CMS), Mobitopup, Mobitopup App, NECI, NECI CMS, Mobitopup CMS(B2C CMS)
 
-- 🌱 I’m currently learning **Javascript, ReactJS, React Native, NextJS, VueJS, NodeJS, Strapi, ExpressJS, Flutter**
+- 🌱 I’m currently learning **Javascript, ReactJS, React Native, NextJS, VueJS, NodeJS, Strapi, ExpressJS, NestJS, Flutter**
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NextJS, React Native, Flutter**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, ReactJS, NextJS, React Native, Flutter**
 
 - 📫 How to reach me **vhoangminhnhat2508@gmail.com**
 
