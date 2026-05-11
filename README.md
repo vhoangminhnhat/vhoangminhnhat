@@ -80,12 +80,12 @@ Building scalable web platforms, enterprise CMS systems and AI-ready products wi
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres" />
 </p>
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
