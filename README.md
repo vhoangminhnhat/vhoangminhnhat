@@ -68,12 +68,12 @@ Building scalable web platforms, enterprise CMS systems and AI-ready products wi
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Web Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,redux" />
 </p>
 
-### Mobile
+### Mobile Apllications
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter" />
 </p>
