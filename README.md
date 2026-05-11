@@ -94,6 +94,7 @@ Building scalable web platforms, enterprise CMS systems and AI-ready products wi
 
 ```txt
 Frontend Architecture
+Backend Architecture & Implementation
 → AI Product Engineering
 → LLM Applications
 → AI Assistants
