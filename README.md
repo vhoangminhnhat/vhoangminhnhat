@@ -73,7 +73,7 @@ Building scalable web platforms, enterprise CMS systems and AI-ready products wi
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,redux" />
 </p>
 
-### Mobile Apllications
+### Mobile Applications
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter" />
 </p>
