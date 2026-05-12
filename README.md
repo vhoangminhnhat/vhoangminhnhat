@@ -24,7 +24,7 @@ Building scalable web platforms, enterprise CMS systems and AI-ready products wi
   - GoGoSim.vn
   - Mobitopup Ecosystem
   - B2B/B2C CMS Platforms
-  - IoT SIM Management Systems
+  - Warehouse CMS
   - Internal Enterprise Platforms
 
 - 🌱 Currently exploring:
