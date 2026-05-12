@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat Vu</h1>
 
 <h3 align="center">
-Frontend Engineer • AI Product Engineering Enthusiast • Clean Architecture Lover
+Frontend Engineer • AI Product Engineering Enthusiast
 </h3>
 
 <p align="center">
