@@ -87,12 +87,12 @@ Data-heavy enterprise dashboard with analytics visualization, operational report
 
 ### Mobile Applications
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,ts,dart" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,prisma" />
 </p>
 
 ### Tools & Others
