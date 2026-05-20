@@ -73,7 +73,7 @@ Building a scalable MCP platform using React, NestJS, and AI-powered chat workfl
 ### GoGoSim.vn
 Customer-facing telecom e-commerce platform built with Next.js, optimized for responsive user experience across devices and screen sizes.
 
-### Warehouse CMS Dashboard
+### Warehouse CMS
 Data-heavy enterprise dashboard with analytics visualization, operational reporting, inventory workflows, and management systems.
 
 ---
