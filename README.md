@@ -21,7 +21,7 @@ Building scalable web platforms and enterprise systems while getting to grips wi
   - Enterprise Frontend Systems
 
  🔭 Currently working on:
-  - Customer-facing product platforms (GoGoSim.vn, Mobitopup.vn)
+  - Customer-facing product platforms (GoGoSim.vn, Mobitopup.vn, Mobitopup App)
   - Telecom & E-SIM Platforms
   - Warehouse CMS Systems
   - Internal Enterprise Platforms
@@ -35,11 +35,13 @@ Building scalable web platforms and enterprise systems while getting to grips wi
 
  💬 Ask me about:
   - ReactJS / NextJS
+  - Flutter
   - Frontend Architecture
   - Clean Code
   - MVVM
   - RxJS
   - TypeScript
+  - Dart
   - Enterprise Frontend Design
 
  ⚡ Fun fact:
