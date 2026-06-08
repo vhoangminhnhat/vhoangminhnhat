@@ -67,8 +67,8 @@ Building scalable web platforms and enterprise systems while getting to grips wi
 
 ## 🚀 Featured Projects
 
-### AI-powered MCP Platform (Ongoing)
-Building a scalable MCP platform using React, NestJS, and AI-powered chat workflows with context-aware interactions and modular architecture.
+### AI-powered Assistant Platform (Ongoing)
+Building a scalable AI-powered Assistant platform using React, NestJS, and AI-powered chat workflows with context-aware interactions and modular architecture.
 
 ### GoGoSim.vn
 Customer-facing telecom e-commerce platform built with Next.js, optimized for responsive user experience across devices and screen sizes.
