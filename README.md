@@ -99,7 +99,7 @@ Data-heavy enterprise dashboard with analytics visualization, operational report
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,gitlab,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,gitlab,postman,neovim" />
 </p>
 
 ---
