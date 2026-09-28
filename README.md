@@ -94,7 +94,7 @@ Data-heavy enterprise dashboard with analytics visualization, operational report
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,docker,prisma" />
 </p>
 
 ### Tools & Others
