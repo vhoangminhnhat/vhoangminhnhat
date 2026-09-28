@@ -84,7 +84,7 @@ Data-heavy enterprise dashboard with analytics visualization, operational report
 
 ### Web Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
 ### Mobile Applications
@@ -94,7 +94,7 @@ Data-heavy enterprise dashboard with analytics visualization, operational report
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,docker,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,postgres,prisma" />
 </p>
 
 ### Tools & Others
